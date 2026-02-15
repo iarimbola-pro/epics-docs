@@ -67,6 +67,7 @@ You may also directly use related links to see documents which match you the mos
    getting-started/installation-rtems
    getting-started/creating-ioc
    getting-started/os-specifics
+   Installing EPICS on Raspberry PI (External) <https://cmd-response.readthedocs.io/en/latest/epics/rpi_epics.html>
    EPICS 7.0 Release Notes <https://docs.epics-controls.org/projects/base/en/latest/RELEASE_NOTES.html>
 
 
@@ -105,6 +106,7 @@ You may also directly use related links to see documents which match you the mos
    :caption: EPICS Related Software
 
    software/epics-related-software
+   Area Detector: Installation Guide (External) <https://areadetector.github.io/areaDetector/install_guide.html>
 
 .. toctree::
    :maxdepth: 1
@@ -152,8 +154,6 @@ You may also directly use related links to see documents which match you the mos
 
    contributing/HowToWorkWithTheEpicsRepository
    CONTRIBUTING
-   Installing EPICS on Raspberry PI (External) <https://cmd-response.readthedocs.io/en/latest/epics/rpi_epics.html>
-   Area Detector: Installation Guide (External) <https://areadetector.github.io/areaDetector/install_guide.html>
 
 .. toctree::
    :maxdepth: 1
