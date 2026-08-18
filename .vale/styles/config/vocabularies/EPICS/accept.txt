@@ -1,7 +1,10 @@
 DLL
 Doxygen
 EPICS
+epics-controls
+epics-docs
 IOC
+IOCs
 PV
 Read the Docs
 reStructuredText
