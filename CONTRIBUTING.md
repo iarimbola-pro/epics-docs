@@ -4,6 +4,9 @@ Found an issue?
 Report it on [GitHub Issues](https://github.com/epics-docs/epics-docs/issues)
 or email <tech-talk@aps.anl.gov>.
 
+For repository scope, local build, and preview instructions,
+see [README.md](./README.md).
+
 ## Pull requests
 
 - If you are new to GitHub's contribution flow,
@@ -14,20 +17,6 @@ or email <tech-talk@aps.anl.gov>.
   Once the check passes,
   follow the **Read the Docs** link in the PR checks
   and confirm your change renders as expected.
-
-## Local development
-
-Install dependencies from `pyproject.toml` and run a local preview:
-
-``` console
-$ python -m venv .venv
-$ . .venv/bin/activate
-$ pip install .
-$ sphinx-autobuild . ./_build/html
-```
-
-Open <http://127.0.0.1:8000> in your browser.
-Changes reload automatically.
 
 ## Documentation framework
 

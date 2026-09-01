@@ -45,7 +45,7 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 
-exclude_patterns = ['_build', 'Thumbs.db', '.*', 'README.md', 'venv']
+exclude_patterns = ['_build', 'Thumbs.db', '.*', 'README.md', 'CONTRIBUTING.md', 'venv']
 
 # Intersphinx links to subprojects
 intersphinx_mapping = {
@@ -173,6 +173,9 @@ redirects = {
 
     "software/HowToWorkWithTheEpicsRepository":
         "../contributing/HowToWorkWithTheEpicsRepository.html",
+
+    "CONTRIBUTING":
+        "community/contributing.html",
 
     "access-security/specifications":
         "../appdevguide/AccessSecurity.html",

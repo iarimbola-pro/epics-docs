@@ -153,12 +153,12 @@ You may also directly use related links to see documents which match you the mos
    :caption: Contributing
 
    contributing/HowToWorkWithTheEpicsRepository
-   CONTRIBUTING
 
 .. toctree::
    :maxdepth: 1
    :caption: Collaboration
 
+   community/contributing
    EPICS Website (External) <https://epics-controls.org>
    EPICS Website - Training (External) <https://epics-controls.org/resources-and-support/documents/training/>
    community/how-to-run-an-epics-collaboration-meeting.rst
