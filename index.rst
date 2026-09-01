@@ -150,12 +150,6 @@ You may also directly use related links to see documents which match you the mos
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contributing
-
-   contributing/HowToWorkWithTheEpicsRepository
-
-.. toctree::
-   :maxdepth: 1
    :caption: Collaboration
 
    community/contributing

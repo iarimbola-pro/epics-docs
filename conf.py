@@ -172,7 +172,10 @@ redirects = {
         "../index.html",
 
     "software/HowToWorkWithTheEpicsRepository":
-        "../contributing/HowToWorkWithTheEpicsRepository.html",
+        "../community/contributing.html",
+
+    "contributing/HowToWorkWithTheEpicsRepository":
+        "../community/contributing.html",
 
     "CONTRIBUTING":
         "community/contributing.html",
