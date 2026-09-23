@@ -1,7 +1,7 @@
 PV Access repositories overview
 ===============================
 
-There are (at the time of writing) two generations of pvAccess C++ implementations available:
+There are (at the time of writing) two generations of pvAccess C++ implementations available and a Python library (P4P) :
 
 PVXS
 ----
@@ -28,3 +28,8 @@ EPICS base distribution as separate modules beginning from version 7.0.
 -   Normative Types <https://docs.epics-controls.org/projects/normativetypes-cpp/en/latest>
 -   pvaClientCpp <https://docs.epics-controls.org/projects/pvaclient-cpp/en/latest>
 -   pvDatabaseCpp <https://docs.epics-controls.org/projects/pvdatabase-cpp/en/latest>
+
+P4P
+---
+
+P4P <https://epics-base.github.io/p4p/> is a Python library providing client and server support for the pvAccess protocol.
